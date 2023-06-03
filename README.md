@@ -1,5 +1,2 @@
-# vulcan_game
-
-`This is game for vulcan` 
-
-## Oh shit?1
+# Strange game v0.0
+This is a game with DIY controller created for practice in STC Vulcan
